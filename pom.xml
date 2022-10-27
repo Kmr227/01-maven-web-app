@@ -8,7 +8,7 @@
   <name>01-maven-web-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core added right  -->
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core added right ok ok  -->
 <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
